@@ -42,5 +42,3 @@ jobs:
       with:
         name: finance-app-apk
         path: .buildozer/android/platform/build-armeabi-v7a_arm64-v8a/dists/*/build/outputs/apk/debug/*.apk
-
-        
